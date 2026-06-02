@@ -1,2 +1,2 @@
 # ai-faq-chatbot
-Frontend chatbot application focused on conversational user experience, dynamic response handling, and AI workflow fundamentals.
+A lightweight chatbot interface that simulates AI-powered customer support using structured knowledge responses.
